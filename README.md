@@ -1,10 +1,7 @@
 # Ubuntu Touch for Oneplus One
 
-###How to install:
-http://wiki.ubports.com/index.php/OnePlus_One
-
-###How to build:
-http://wiki.ubports.com/index.php/OnePlus_One_Build
+###How to install && build:
+https://wiki2.ubports.com
 
 ###What is working?
 http://wiki.ubports.com/index.php/OnePlus_One#What_works
